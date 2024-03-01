@@ -54,8 +54,6 @@ Split and merge HSV Image
 ### OUTPUT:
 ![COW PIC](https://github.com/Keerthanasampathkumar/COLOR_CONVERSIONS_OF-IMAGE/assets/119477890/7d5445f0-1bfa-4f0a-b019-38c7587326a2)
 
-
-![SHABREENA](https://github.com/shabreenavincent/COLOR_CONVERSIONS_OF-IMAGE/assets/119475721/1d56a08e-aab6-40da-9d4f-3bbed7ca07c6)
 ### ii)Write the image
 ```
     import cv2
